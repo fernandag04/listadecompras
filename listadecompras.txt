@@ -1,4 +1,5 @@
-jitomate
+tomate
 chiles
 carne
 leche
+cebolla
